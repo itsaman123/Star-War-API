@@ -16,3 +16,6 @@ Here are some screenshots of the app:
 
 
 ![image](https://github.com/itsaman123/Star-War-API/assets/84653396/a1f9de4b-14e1-4e4d-b3e5-1eb915ef125a)
+
+<img width="960" alt="image" src="https://github.com/itsaman123/Star-War-API/assets/84653396/93c2bee8-a45a-42cf-92f8-a04694fc05d8">
+
